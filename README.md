@@ -1,11 +1,11 @@
-# File-Sharing-Man
+# File-Karman
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 ##
 
-**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@SharingUserbot](https://www.telegram.dog/SharingUserbot)**
+**Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan report di group [@obrolansuar](https://www.telegram.dog/obrolansuar)**
 
 ### Features
 - Sepenuhnya dapat dicustom.
@@ -23,23 +23,9 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://risman.vercel.app/file-deploy.html)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://ArmanGG01.vercel.app/file-deploy.html)</br>
 
-**Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
-<a href="https://youtu.be/O2tieQgzYZg">
-  <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
-</a><br>
 
-#### Deploy in your VPS
-````bash
-git clone https://github.com/mrismanaziz/File-Sharing-Man
-cd File-Sharing-Man
-pip3 install -r requirements.txt
-cp sample_config.env config.env
-# edit config.env Anda dan isi VARS menggunakan nano config.env CTRL + S untuk menyimpan VARS Anda, 
-# gunakan CTRL + X untuk keluar dan kembali ke direktori File-Sharing-Man
-bash start
-````
 
 ### Admin Commands
 
@@ -105,7 +91,7 @@ Laporkan Bug, Berikan Permintaan Fitur Di sana..
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[FILE-SHARING-BOT](https://github.com/mrismanaziz/File-Sharing-Man/) is Free Software: You can use, study share and improve it at your
+[FILE-SHARING-BOT](https://github.com/ArmanGG01/File-Karman/) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
