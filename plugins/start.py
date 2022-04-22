@@ -79,7 +79,7 @@ async def start_command(client: Bot, message: Message):
         try:
             messages = await get_messages(client, ids)
         except BaseException:
-            await message.reply_text("<b>Telah Terjadi Error </b>🥺")
+            await message.reply_text("<b>Telah Terjadi Error </b>😭")
             return
         await temp_msg.delete()
 
