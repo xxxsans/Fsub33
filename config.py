@@ -4,6 +4,7 @@
 
 import logging
 import os
+from pyrogram import filters
 from dotenv import load_dotenv
 from logging.handlers import RotatingFileHandler
 
