@@ -44,6 +44,7 @@ def start_button(client):
             ],
             [
                 InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink),
+                InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink1),
                 InlineKeyboardButton(text="ɢʀᴏᴜᴘ", url=client.invitelink2),
             ],
         ]
@@ -65,7 +66,7 @@ def start_button(client):
                 InlineKeyboardButton(text="• ᴛᴇɴᴛᴀɴɢ sᴀʏᴀ •", callback_data="about"),
             ],
             [
-                InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ1", url=client.invitelink),
+                InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ1", url=client.invitelink1),
                 InlineKeyboardButton(text="ɢʀᴏᴜᴘ", url=client.invitelink2),
             ],
             [InlineKeyboardButton(text="• ᴛᴜᴛᴜᴘ •", callback_data="close")],
