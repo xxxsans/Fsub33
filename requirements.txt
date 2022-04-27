@@ -1,7 +1,6 @@
 feedparser
 psycopg2-binary
-pyrogram
-from pyrogram import filters
+pyrogram==1.4.16
 python-dotenv
 Pyromod
 sqlalchemy==1.3.23
