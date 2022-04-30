@@ -12,7 +12,7 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 - Dapat di-deploy di heroku & vps.
 - Pesan sambutan & Forcesub yang dapat dicustom.
 - Lebih dari satu Posting dalam Satu Link (batch).
-- Fleksibel FSUB Button bisa 1 button atau 2 button menyesuaikan dengan var yang di isi.
+- Fleksibel FSUB Button bisa 1 button atau 2-3 button menyesuaikan dengan var yang di isi.
 
 ### Setup
 
