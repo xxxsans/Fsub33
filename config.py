@@ -28,6 +28,10 @@ OWNER_ID = int(os.environ.get("OWNER_ID", ""))
 # PROTECT CONTENT
 PROTECT_CONTENT = strtobool(os.environ.get("PROTECT_CONTENT", "True"))
 
+# Heroku Credentials for updater.
+HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", None)
+HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
+
 # NAMA OWNER
 OWNER = os.environ.get("OWNER", "PakkPoll")
 
