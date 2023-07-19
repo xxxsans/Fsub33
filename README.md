@@ -1,6 +1,6 @@
 # ZER-file sharing
 
-Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus. Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
+Woy jancok ini Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus. Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bug, silahkan lapor ae tot ke @ZERGIIORVDRA atau ke grup @ZERSUPPORT_BOT_TELEGRAM
 
@@ -79,7 +79,7 @@ Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bu
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/obrolansuar) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/DeployBot01) untu info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/zersupport_bot_telegram) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/DeployBot01) untu info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
