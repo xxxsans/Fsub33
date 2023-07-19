@@ -10,12 +10,12 @@
   "logo": "https://telegra.ph//file/49e1537fa37cebf2afc9a.jpg",
   "env": {
     "TG_BOT_TOKEN": {
-      "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
+      "description": "Masukan Bot tokenmu, Dapatkan dari t.me/BotFather",
       "value": ""
     },
     "OWNER": {
-      "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "PakkPoll"
+      "description": "Masukan Username Telegram untuk Owner BOT mu [ Jangan Pake @ ]",
+      "value": "jmbottttt"
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
