@@ -79,7 +79,7 @@ Jika Anda memerlukan tambahan module lagi dalam repo atau Jika Anda menemukan bu
 
 
 ## Support   
-Bergabunglah di [Group Telegram ](https://www.telegram.dog/zersupport_bot_telegram) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/DeployBot01) untu info Update bot.   
+Bergabunglah di [Group Telegram ](https://www.telegram.dog/zersupport_bot_telegram) Untuk Dukungan/Bantuan Dan Join [Channel](https://www.telegram.dog/INFO_ZERBOT) untu info Update bot.   
    
 Laporkan Bug, Berikan Permintaan Fitur Di sana.. 
 
