@@ -2,7 +2,7 @@
 # Recode by @mrismanaziz
 # t.me/SharingUserbot & t.me/Lunatic0de
 
-import pyromod.listen
+from pyromod import listen
 import sys
 
 from pyrogram import Client
