@@ -134,7 +134,7 @@ def fsub_button(client, message):
         except IndexError:
             pass
         return buttons
-    if FORCE_SUB_CHANNEL, FORCE_SUB_CHANNEL1 and FORCE_SUB_GROUP:
+    if FORCE_SUB_CHANNEL and FORCE_SUB_GROUP:
         buttons = [
             [
                 InlineKeyboardButton(text="ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ", url=client.invitelink),
